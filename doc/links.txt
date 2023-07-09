@@ -1,0 +1,14 @@
+Tic tac toe in scala
+====================
+
+Pages that explain how to do things:
+------------------------------------
+
+https://www.markdownguide.org/cheat-sheet/
+
+https://github.com/github/gitignore/tree/main/Global
+
+https://www.scala-sbt.org/1.x/docs/index.html
+
+https://www.scalatest.org/
+https://www.scalatest.org/at_a_glance/FunSuite
