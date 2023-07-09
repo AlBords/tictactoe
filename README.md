@@ -6,7 +6,7 @@ The purpose of this project is to:
 - manually rewrite haskell code as scala code
 - create a small scala project
 - divide the program in three parts: api, lib and cli
-- make api and lib reusable as a component behind a rest 
+- make api and lib reusable as a component behind a rest api
 
 ## Details
 
